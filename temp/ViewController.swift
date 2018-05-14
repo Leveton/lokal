@@ -6,6 +6,8 @@
 //  Copyright © 2018 Michael Leveton. All rights reserved.
 //
 
+//change 0
+
 /**
  Leetcode 821. Shortest Distance to a Character
  Time complexity is O(n + k) where k is the number of keys and you are scanning.
